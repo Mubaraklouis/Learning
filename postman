@@ -1,0 +1,226 @@
+[
+    {
+        "id": 4,
+        "name": "Ducimus qui beatae Folder",
+        "course_id": 5,
+        "created_at": "2025-05-25T22:55:17.000000Z",
+        "updated_at": "2025-05-25T22:55:17.000000Z",
+        "notes": [
+            {
+                "id": 5,
+                "title": "request title",
+                "content": "<p>contentjjjjjjjjvyghcdcgdvchgsdcvdhscvsdchv</p>",
+                "is_favorite": 0,
+                "folder_id": 4,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:30:36.000000Z",
+                "updated_at": "2025-05-26T00:00:26.000000Z",
+                "files": [
+                    {
+                        "id": 5,
+                        "note_id": 5,
+                        "file_name": "🔥 Wallpapers Minions on WallpaperSafari.jpg",
+                        "file_path": "https://focusflowbucket.s3.amazonaws.com/files/%F0%9F%94%A5%20Wallpapers%20Minions%20on%20WallpaperSafari.jpg",
+                        "created_at": "2025-05-25T23:33:17.000000Z",
+                        "updated_at": "2025-05-25T23:33:17.000000Z"
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "title": "fffff",
+                "content": "start typing",
+                "is_favorite": 0,
+                "folder_id": 4,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:44:52.000000Z",
+                "updated_at": "2025-05-25T23:44:52.000000Z",
+                "files": []
+            },
+            {
+                "id": 12,
+                "title": "hhhhhhhh",
+                "content": "<p>start typingnnnnn</p>",
+                "is_favorite": 0,
+                "folder_id": 4,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:48:21.000000Z",
+                "updated_at": "2025-05-26T00:03:37.000000Z",
+                "files": []
+            },
+            {
+                "id": 13,
+                "title": "hhjjjjjnnnnbbbbvcc",
+                "content": "<h1>start typing</h1>",
+                "is_favorite": 0,
+                "folder_id": 4,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:48:52.000000Z",
+                "updated_at": "2025-05-25T23:59:56.000000Z",
+                "files": []
+            },
+            {
+                "id": 14,
+                "title": "gooooooood",
+                "content": "<h1>start typing\\</h1><p></p><p>sdddddds</p><p>kjjjjjjjjjjjjjjsdsdfsdfdfdsfdsfdfdsffsfsf</p>",
+                "is_favorite": 0,
+                "folder_id": 4,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:53:56.000000Z",
+                "updated_at": "2025-05-26T00:16:21.000000Z",
+                "files": []
+            },
+            {
+                "id": 15,
+                "title": "elect",
+                "content": "<h1>start typinghhhhhhhhhhhhcsdsdsdsdsc</h1>",
+                "is_favorite": 0,
+                "folder_id": 4,
+                "last_edited_at": null,
+                "created_at": "2025-05-26T00:25:07.000000Z",
+                "updated_at": "2025-05-26T01:10:56.000000Z",
+                "files": [
+                    {
+                        "id": 6,
+                        "note_id": 15,
+                        "file_name": "cross.png",
+                        "file_path": "https://focusflowbucket.s3.amazonaws.com/files/cross.png",
+                        "created_at": "2025-05-26T00:26:20.000000Z",
+                        "updated_at": "2025-05-26T00:26:20.000000Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Incidunt nisi id es Folder",
+        "course_id": 1,
+        "created_at": "2025-05-25T13:42:34.000000Z",
+        "updated_at": "2025-05-25T13:42:34.000000Z",
+        "notes": [
+            {
+                "id": 3,
+                "title": "testing",
+                "content": "<ul class=\"apple-notes-task-list\" data-type=\"taskList\"><li class=\"apple-notes-task-item\" data-checked=\"false\" data-type=\"taskItem\"><label><input type=\"checkbox\"><span></span></label><div><p>testing</p></div></li></ul><p>Start writing here...lkjhgfdsdfghjkl;</p>",
+                "is_favorite": 0,
+                "folder_id": 1,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T14:01:00.000000Z",
+                "updated_at": "2025-05-25T23:24:01.000000Z",
+                "files": [
+                    {
+                        "id": 1,
+                        "note_id": 3,
+                        "file_name": "🔥 Wallpapers Minions on WallpaperSafari.jpg",
+                        "file_path": "https://focusflowbucket.s3.amazonaws.com/files/%F0%9F%94%A5%20Wallpapers%20Minions%20on%20WallpaperSafari.jpg",
+                        "created_at": "2025-05-25T22:25:29.000000Z",
+                        "updated_at": "2025-05-25T22:25:29.000000Z"
+                    },
+                    {
+                        "id": 2,
+                        "note_id": 3,
+                        "file_name": "62a4c8c5fdee15d2905007ca.png",
+                        "file_path": "https://focusflowbucket.s3.amazonaws.com/files/62a4c8c5fdee15d2905007ca.png",
+                        "created_at": "2025-05-25T22:34:26.000000Z",
+                        "updated_at": "2025-05-25T22:34:26.000000Z"
+                    },
+                    {
+                        "id": 3,
+                        "note_id": 3,
+                        "file_name": "case.png",
+                        "file_path": "https://focusflowbucket.s3.amazonaws.com/files/case.png",
+                        "created_at": "2025-05-25T22:49:02.000000Z",
+                        "updated_at": "2025-05-25T22:49:02.000000Z"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "request title",
+                "content": "<p>s ahshasjhvsahjvchjacvsahjcbahjscsvcjashcvscjahcvshasjcvsajchvcjshcvsacjhscvjahvcsjahcvscjashcvsjhvcjsahcvscjhacvjchavchjscvsjahcvshjavcsjhavscjsahcvsjahvcjsahcvsahjvchsajv</p>",
+                "is_favorite": 0,
+                "folder_id": 1,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:02:16.000000Z",
+                "updated_at": "2025-05-25T23:15:35.000000Z",
+                "files": [
+                    {
+                        "id": 4,
+                        "note_id": 4,
+                        "file_name": "62a4c8c5fdee15d2905007ca.png",
+                        "file_path": "https://focusflowbucket.s3.amazonaws.com/files/62a4c8c5fdee15d2905007ca.png",
+                        "created_at": "2025-05-25T23:04:20.000000Z",
+                        "updated_at": "2025-05-25T23:04:20.000000Z"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "testll",
+                "content": "testll",
+                "is_favorite": 0,
+                "folder_id": 1,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:35:13.000000Z",
+                "updated_at": "2025-05-25T23:35:13.000000Z",
+                "files": []
+            },
+            {
+                "id": 7,
+                "title": "testll",
+                "content": "testll",
+                "is_favorite": 0,
+                "folder_id": 1,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:36:40.000000Z",
+                "updated_at": "2025-05-25T23:36:40.000000Z",
+                "files": []
+            },
+            {
+                "id": 8,
+                "title": "hggg",
+                "content": "test",
+                "is_favorite": 0,
+                "folder_id": 1,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:41:18.000000Z",
+                "updated_at": "2025-05-25T23:41:18.000000Z",
+                "files": []
+            },
+            {
+                "id": 9,
+                "title": "hggg",
+                "content": "start typing",
+                "is_favorite": 0,
+                "folder_id": 1,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:43:47.000000Z",
+                "updated_at": "2025-05-25T23:43:47.000000Z",
+                "files": []
+            },
+            {
+                "id": 10,
+                "title": "hggg",
+                "content": "start typing",
+                "is_favorite": 0,
+                "folder_id": 1,
+                "last_edited_at": null,
+                "created_at": "2025-05-25T23:44:24.000000Z",
+                "updated_at": "2025-05-25T23:44:24.000000Z",
+                "files": []
+            },
+            {
+                "id": 18,
+                "title": "note two",
+                "content": "<h1>note two</h1><p>Start writing here...</p>",
+                "is_favorite": 0,
+                "folder_id": 1,
+                "last_edited_at": null,
+                "created_at": "2025-05-26T12:30:29.000000Z",
+                "updated_at": "2025-05-26T12:30:29.000000Z",
+                "files": []
+            }
+        ]
+    }
+]
