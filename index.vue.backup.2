@@ -1057,11 +1057,11 @@ function getFileIconByName(fileName: string) {
                   variant="ghost" 
                   size="sm"
                   @click="saveNoteContent(editor?.getHTML() || ''); isEditing = false;"
-                  class="flex items-center h-8 gap-1 px-2 text-xs border rounded-full text-primary border-primary/20 bg-primary/5"
+                  class="w-8 h-8 p-0"
+                  :class="editor?.isActive('save') ? 'text-primary' : 'text-muted-foreground hover:text-foreground'"
                   title="Save changes"
                 >
-                  <Save class="h-3.5 w-3.5 mr-1" />
-                  Save
+                  <Save class="w-4 h-4" />
                 </Button>
                 
                 <Button 
@@ -2030,6 +2030,47 @@ function getFileIconByName(fileName: string) {
 
   .toolbar-scroll > * {
     scroll-snap-align: start;
+  }
+
+  /* Mobile Editor Text Wrapping */
+  .editor-container {
+    width: 100%;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+  }
+
+  .editor-container .ProseMirror {
+    width: 100%;
+    max-width: 100%;
+    padding: 1rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+  }
+
+  .editor-container .ProseMirror p,
+  .editor-container .ProseMirror h1,
+  .editor-container .ProseMirror h2,
+  .editor-container .ProseMirror h3,
+  .editor-container .ProseMirror li,
+  .editor-container .ProseMirror blockquote {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    width: 100%;
+  }
+
+  .editor-container .ProseMirror pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    width: 100%;
+  }
+
+  .editor-container .ProseMirror pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
   }
 }
 
